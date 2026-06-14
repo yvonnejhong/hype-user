@@ -1,4 +1,4 @@
 interface:
   display_name: "Hype User"
-  short_description: "Emoji-heavy AI-like hype and morale boosts"
-  default_prompt: "Use $hype-user to hype me up with emojis and em dashes while staying honest."
+  short_description: "Therapist-like reframes and morale boosts"
+  default_prompt: "Use $hype-user to reassure me with therapist-like reframes while staying honest."
